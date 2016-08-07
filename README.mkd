@@ -218,6 +218,7 @@ The document is split into two major sections: [Content](#content) and [Code](#c
 * [feedopensource: Iteratively Fund Open Source Projects With Bitcoin](https://github.com/dominictarr/feedopensource) `JavaScript` (dominictarr)
 * [Bitcoin-Poker-Room: Sources for Bitcoin Poker Room.](https://github.com/hippich/Bitcoin-Poker-Room) `Python` (hippich)
 * [BitHub: pay Bitcoin for GitHub commits](https://github.com/WhisperSystems/BitHub) `Java` (WhisperSystems) 
+* [Quora: depth understanding of blockchain](https://www.quora.com/How-do-I-gain-an-in-depth-understanding-of-Blockchain)
 
 #### Related Protocols
 * [bitid: Bitcoin Authentication Open Protocol](https://github.com/bitid/bitid) (Larch)
